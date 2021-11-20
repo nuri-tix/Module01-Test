@@ -1,0 +1,24 @@
+body {
+   background: #ff8080;
+}
+
+h1 {
+   font-size: 50px;
+   color: rgb(255, 0, 191);
+   background: #f0f091;
+}
+
+p {
+   color: #804040;
+}
+
+ul,
+ol,
+ol a {
+   color: #800080;
+}
+
+q {
+   font-style: italic;
+   border-bottom: 2px solid #cc3365;
+}
