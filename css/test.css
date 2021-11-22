@@ -14,7 +14,7 @@ h1,
 h2,
 h3 {
    text-transform: uppercase;
-   letter-spacing: 0.5px
+   letter-spacing: 0.5px;
 }
 
 .logo {
@@ -58,6 +58,6 @@ a {
    padding-bottom: 20px;
 }
 
-.footer {
+footer {
    font-size: 13px;
 }
